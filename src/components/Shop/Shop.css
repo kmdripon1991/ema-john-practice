@@ -6,5 +6,18 @@
     margin: 50px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 45px;
+    gap: 20px;
+    width: 80%;
 }
+
+.cart-container{
+    background-color: chocolate;
+    height: 400px;
+    padding: 25px;
+    position: sticky;
+    top: 0px;
+}
+
+
+
+
